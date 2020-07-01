@@ -1,5 +1,3 @@
-[![GitHub issues](https://img.shields.io/github/issues/obsidianbit/lunr)](https://github.com/obsidianbit/lunr/issues)
-
 # lunr
 
 lunr -- an anonymous, private, and secure meta search engine
