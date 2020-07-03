@@ -1,6 +1,6 @@
 # lunr
 
-lunr -- an anonymous, private, and secure meta search engine
+lunr -- an anonymous, private, and secure open-source meta search engine
 
 ## System requirements
 
