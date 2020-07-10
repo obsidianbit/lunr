@@ -1,6 +1,10 @@
-# lunr
+<p align="center"><a href="https://github.com/obsidianbit/lunr"><img src="https://i.imgur.com/k1wRBZb.png" alt="lunr" height="180"/></a></p>
 
-lunr -- an anonymous, private, and secure open-source meta-search engine
+<h1 align="center">lunr</h1>
+
+<p align="center">Privacy-oriented open-source meta-search engine</p>
+
+<p align="center"><a href="https://github.com/obsidianbit/lunr/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/obsidianbit/lunr?style=flat-square"></a></p>
 
 ## System requirements
 
