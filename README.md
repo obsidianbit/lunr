@@ -35,7 +35,7 @@ server {
     listen         80;
     listen         [::]:80;
     server_name    yoursite.com www.yoursite.com;
-    root           /var/www/lunr;
+    root           /var/www/lunr/lunr;
     index          index.php;
 
     location ~* \.php$ {
